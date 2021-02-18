@@ -1,6 +1,8 @@
+@getcall
 Feature: Retrieve Request details happy path
 
+  @smoke @getstatus
   Scenario: User can successfully retrieve Get details
     Given As a consumer, I retrieve all the get info from typicode
-    Then I receive a response code with HTTP Status Code 200
+    Then I receive a response code with HTTP Status Code
     And I validate retrieved response successfully
