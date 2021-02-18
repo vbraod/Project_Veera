@@ -1,5 +1,5 @@
-source 'http://repo.nwie.net/nexus/content/repositories/gems-rubygems/'
-source 'http://repo.nwie.net/nexus/content/groups/rubygems/'
+source 'https://rubygems.org'
+
 
 group :default do
   gem 'cucumber','3.1.1'
