@@ -1,0 +1,20 @@
+Lint/AmbiguousRegexpLiteral:
+  Enabled: false
+
+Lint/Void:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Style/StringLiterals:
+  Enabled: false
+
+Style/BarePercentLiterals:
+  Enabled: false
+
+Style/PercentLiteralDelimiters:
+  Enabled: false
+
+Style/UnneededPercentQ:
+  Enabled: false

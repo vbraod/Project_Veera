@@ -53,6 +53,7 @@
     <orderEntry type="library" scope="PROVIDED" name="json (v2.1.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="little-plugger (v1.1.4, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="logging (v2.2.2, jruby-9.1.16.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="map (v6.6.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="memoizable (v0.4.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types (v3.1, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="mime-types-data (v3.2016.0521, jruby-9.1.16.0-p0) [gem]" level="application" />
@@ -74,6 +75,9 @@
     <orderEntry type="library" scope="PROVIDED" name="procto (v0.0.3, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="public_suffix (v3.0.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rack (v2.0.5, jruby-9.1.16.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_current (v2.2.0, jruby-9.1.16.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_default_url_options (v6.0.0, jruby-9.1.16.0-p0) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails_helper (v2.2.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.0.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.1, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="reek (v4.8.1, jruby-9.1.16.0-p0) [gem]" level="application" />

@@ -1,5 +1,6 @@
 GEM
-  remote: https://rubygems.org/
+  remote: http://repo.nwie.net/nexus/content/repositories/gems-rubygems/
+  remote: http://repo.nwie.net/nexus/content/groups/rubygems/
   specs:
     abstract_type (0.0.7)
     activesupport (5.2.0)
@@ -100,6 +101,7 @@ GEM
     logging (2.2.2)
       little-plugger (~> 1.1)
       multi_json (~> 1.10)
+    map (6.6.0)
     memoizable (0.4.2)
       thread_safe (~> 0.3, >= 0.3.1)
     mime-types (3.1)
@@ -131,6 +133,12 @@ GEM
     procto (0.0.3)
     public_suffix (3.0.2)
     rack (2.0.5)
+    rails_current (2.2.0)
+      map (~> 6.0)
+    rails_default_url_options (6.0.0)
+    rails_helper (2.2.2)
+      rails_current (>= 1.0)
+      rails_default_url_options (>= 1.0)
     rainbow (3.0.0)
     rake (12.3.1)
     reek (4.8.1)
@@ -241,12 +249,14 @@ DEPENDENCIES
   nw-automation-encryption (= 0.2.2)
   page-object (~> 2.2)
   rack
+  rails_helper
   rake (= 12.3.1)
   reek (= 4.8.1)
   report_builder (= 1.6)
   require_all (= 2.0.0)
   rest-client (= 2.0.2)
   rspec (= 3.7.0)
+  rspec-expectations
   rubocop (= 0.57.0)
   ruby-debug-base (= 0.10.6)
   ruby-debug-ide (= 0.6.1)

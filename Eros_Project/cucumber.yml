@@ -1,0 +1,17 @@
+<%
+    base_parameters_without_tags =  "--no-source --color --format pretty --format json -o reports/reports.json --profile html_report"
+    skip = "--tags 'not @manual' --tags 'not @skip'"
+    skip_broken = "--tags 'not @broken' --tags 'not @broken_chrome' --tags 'not @broken_ie' --tags 'not @broken_firefox'"
+    work_in_progress = "--tags 'not @wip'"
+    base_parameters = "#{base_parameters_without_tags}"
+#    base_parameters = "#{base_parameters_without_tags}#{skip}#{skip_broken}#{work_in_progress}"
+%>
+default: <%= base_parameters %>
+none: <%= base_parameters_without_tags %>
+test: --tags @test <%= base_parameters %>
+html_report: --format progress --format html --out=reports/report-<%= Time.now.strftime("%Y%m%d-%H%M%S") %>.html
+
+#CRITICAL PATHS:
+
+smoke: --tags @smoke <%= base_parameters%>
+regression: --tags @regression <%= base_parameters%>

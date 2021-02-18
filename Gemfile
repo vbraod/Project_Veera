@@ -1,5 +1,5 @@
-source "https://rubygems.org"
-
+source 'http://repo.nwie.net/nexus/content/repositories/gems-rubygems/'
+source 'http://repo.nwie.net/nexus/content/groups/rubygems/'
 
 group :default do
   gem 'cucumber','3.1.1'
@@ -13,6 +13,8 @@ group :default do
   gem 'unparser','0.2.7'
   gem 'nw-automation-encryption','0.2.2'
   gem 'page-object', '~> 2.2'
+  gem 'rails_helper'
+  gem 'rspec-expectations'
 end
 
 # Web Services, Oracle Database

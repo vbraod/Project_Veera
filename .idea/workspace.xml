@@ -15,7 +15,7 @@
     <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_request_details.coverage" NAME="Scenario: User can successfully retrieve request details Coverage Results" MODIFIED="1613622127768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eros_Project" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details.coverage" NAME="Scenario: User can successfully retrieve Get details Coverage Results" MODIFIED="1613625019489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details__2_.coverage" NAME="Scenario: User can successfully retrieve Get details (2) Coverage Results" MODIFIED="1613625810854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
-    <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details__5_.coverage" NAME="Scenario: User can successfully retrieve Get details (5) Coverage Results" MODIFIED="1613660147630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
+    <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details__5_.coverage" NAME="Scenario: User can successfully retrieve Get details (5) Coverage Results" MODIFIED="1613677088701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details__8_.coverage" NAME="Scenario: User can successfully retrieve Get details (8) Coverage Results" MODIFIED="1613626804324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@Scenario__User_can_successfully_retrieve_Get_details__4_.coverage" NAME="Scenario: User can successfully retrieve Get details (4) Coverage Results" MODIFIED="1613626579920" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Project_Veera/Eros_Project" MODULE_NAME="untitled2" />
     <SUITE FILE_PATH="coverage/untitled2@Run_spec__my_example_spec___untitled2.coverage" NAME="Run spec 'my_example_spec': untitled2 Coverage Results" MODIFIED="1613621689714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Eros_Project" MODULE_NAME="untitled2" />
@@ -24,51 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Xebia.feature" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Xebia.feature" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/Xebia.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state relative-caret-position="150">
+              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Project_Veera/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Rakefile" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Project_Veera/Rakefile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1325">
-              <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="false">
+      <file leaf-file-name="my_steps.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="syntax.rb" pinned="false" current-in-tab="false">
-        <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-expectations-3.7.0/lib/rspec/expectations/syntax.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-678">
-              <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+            <state relative-caret-position="89">
+              <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -87,6 +57,11 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>step</find>
+      <find>rspec</find>
+      <find>rails_helper</find>
+      <find>rspec-expectations</find>
+      <find>expect</find>
+      <find>status</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -96,10 +71,12 @@
         <option value="$PROJECT_DIR$/Eros_Project/my_script.rb" />
         <option value="$PROJECT_DIR$/Eros_Project/Xebia.feature" />
         <option value="$PROJECT_DIR$/Eros_Project/step_definitions/my_steps.rb" />
-        <option value="$PROJECT_DIR$/../Project_Veera/Gemfile" />
         <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/step_definitions/my_steps.rb" />
-        <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb" />
+        <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/.rubocop.yml" />
+        <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/cucumber.yml" />
+        <option value="$PROJECT_DIR$/../Project_Veera/Gemfile" />
         <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/features/Xebia.feature" />
+        <option value="$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb" />
       </list>
     </option>
   </component>
@@ -155,6 +132,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Project_Veera/Eros_Project/features" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="status&#9;FILE&#9;file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/http-3.3.0/lib/http/response/status.rb" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -519,44 +497,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613620887638</updated>
-      <workItem from="1613620889674" duration="11113000" />
+      <workItem from="1613620889674" duration="15227000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 25m 07s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 26m 39s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 27m 51s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 30m 21s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 45m 01s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 46m 04s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 49m 48s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 51m 42s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 54m 36s.xml">
-      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 09h 56m 10s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 12h 17m 43s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 12h 25m 00s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 13h 47m 54s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 00m 07s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 26m 04s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 34m 54s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 35m 38s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 36m 06s.xml">
+      <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Scenario__User_can_successfully_retrieve_Get_details_(5) - 2021.02.18 at 14h 38m 28s.xml">
       <configuration name="Scenario: User can successfully retrieve Get details (5)" configurationId="CucumberRunConfigurationType" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11113000" />
+    <option name="totallyTimeSpent" value="15227000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,10 +551,10 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5117139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5117139" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292232" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24972972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -620,14 +598,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="ruby-line">
-          <url>file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb</url>
-          <line>7</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -688,30 +659,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-expectations-3.7.0/lib/rspec/expectations/syntax.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-678">
-          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Project_Veera/Rakefile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1325">
-          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Project_Veera/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/minitest-5.11.3/lib/minitest/expectations.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -720,18 +667,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb">
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-expectations-3.7.0/lib/rspec/expectations/syntax.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/.rubocop.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/cucumber.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails_helper-2.2.2/lib/rails_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="32" column="43" lean-forward="false" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-3.7.0/lib/rspec/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-3.7.0/lib/rspec.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="11" column="2" lean-forward="false" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+          <caret line="1" column="17" lean-forward="false" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project_Veera/Rakefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/flay-2.12.0/lib/flay.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7554">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/http-3.3.0/lib/http/response/status.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-258">
+          <caret line="4" column="29" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project_Veera/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rspec-core-3.7.1/lib/rspec/core.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3475">
+          <caret line="139" column="27" lean-forward="false" selection-start-line="139" selection-start-column="21" selection-end-line="139" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/Xebia.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state relative-caret-position="150">
+          <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Project_Veera/Eros_Project/features/step_definitions/my_steps.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="9" column="40" lean-forward="false" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
           <folding />
         </state>
       </provider>
