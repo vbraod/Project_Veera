@@ -1,6 +1,6 @@
 [
   {
-    "uri": "C:/Users/dasarv2/RubymineProjects/Project_Veera/Eros_Project/features/Xebia.feature",
+    "uri": "C:/Users/dasarv2/RubymineProjects/Project_Veera/Eros_Project/features/scenarios/Xebia.feature",
     "id": "retrieve-request-details-happy-path",
     "keyword": "Feature",
     "name": "Retrieve Request details happy path",
@@ -34,6 +34,17 @@
             "line": 4
           }
         ],
+        "before": [
+          {
+            "match": {
+              "location": "features/support/hooks.rb:1"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 1182300
+            }
+          }
+        ],
         "steps": [
           {
             "keyword": "Given ",
@@ -44,7 +55,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 2200670900
+              "duration": 3446470700
             }
           },
           {
@@ -55,9 +66,8 @@
               "location": "features/step_definitions/my_steps.rb:11"
             },
             "result": {
-              "status": "failed",
-              "error_message": "\nexpected #<Fixnum:201> => 100\n     got #<Fixnum:55041> => 27520\n\nCompared using equal?, which compares object identity,\nbut expected and actual are not the same object. Use\n`expect(actual).to eq(expected)` if you don't care about\nobject identity in this example.\n\n (RSpec::Expectations::ExpectationNotMetError)\n./features/step_definitions/my_steps.rb:13:in `/^validate the response as an Array$/'\n./features/Xebia.feature:7:in `Then validate the response as an Array'",
-              "duration": 252827119700
+              "status": "passed",
+              "duration": 32989000
             }
           },
           {
@@ -68,7 +78,19 @@
               "location": "features/step_definitions/my_steps.rb:18"
             },
             "result": {
-              "status": "skipped"
+              "status": "passed",
+              "duration": 39660600
+            }
+          }
+        ],
+        "after": [
+          {
+            "match": {
+              "location": "features/support/hooks.rb:13"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3587100
             }
           }
         ]

@@ -1,0 +1,8 @@
+dev:
+  :json_private: 'https://jsonplaceholder.typicode.com/posts'
+
+st:
+  :json_private: 'https://jsonplaceholder.typicode.com/posts'
+
+pt:
+  :json_private: 'https://jsonplaceholder.typicode.com/posts'
