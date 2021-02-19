@@ -11,7 +11,6 @@ group :default do
   gem 'rack'
   gem 'ffi','1.9.25'
   gem 'unparser','0.2.7'
-  gem 'nw-automation-encryption','0.2.2'
   gem 'page-object', '~> 2.2'
   gem 'rails_helper'
   gem 'rspec-expectations'

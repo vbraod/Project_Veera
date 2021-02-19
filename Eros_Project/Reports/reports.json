@@ -40,11 +40,11 @@
             "name": "As a consumer, I retrieve all the get info from typicode",
             "line": 6,
             "match": {
-              "location": "features/step_definitions/my_steps.rb:5"
+              "location": "features/step_definitions/my_steps.rb:6"
             },
             "result": {
               "status": "passed",
-              "duration": 2297484400
+              "duration": 2200670900
             }
           },
           {
@@ -52,11 +52,12 @@
             "name": "validate the response as an Array",
             "line": 7,
             "match": {
-              "location": "features/step_definitions/my_steps.rb:10"
+              "location": "features/step_definitions/my_steps.rb:11"
             },
             "result": {
-              "status": "passed",
-              "duration": 143300
+              "status": "failed",
+              "error_message": "\nexpected #<Fixnum:201> => 100\n     got #<Fixnum:55041> => 27520\n\nCompared using equal?, which compares object identity,\nbut expected and actual are not the same object. Use\n`expect(actual).to eq(expected)` if you don't care about\nobject identity in this example.\n\n (RSpec::Expectations::ExpectationNotMetError)\n./features/step_definitions/my_steps.rb:13:in `/^validate the response as an Array$/'\n./features/Xebia.feature:7:in `Then validate the response as an Array'",
+              "duration": 252827119700
             }
           },
           {
@@ -64,11 +65,10 @@
             "name": "I validate retrieved response successfully",
             "line": 8,
             "match": {
-              "location": "features/step_definitions/my_steps.rb:15"
+              "location": "features/step_definitions/my_steps.rb:18"
             },
             "result": {
-              "status": "passed",
-              "duration": 34889700
+              "status": "skipped"
             }
           }
         ]

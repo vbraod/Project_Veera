@@ -1,6 +1,5 @@
 GEM
-  remote: http://repo.nwie.net/nexus/content/repositories/gems-rubygems/
-  remote: http://repo.nwie.net/nexus/content/groups/rubygems/
+  remote: https://rubygems.org/
   specs:
     abstract_type (0.0.7)
     activesupport (5.2.0)
@@ -65,8 +64,6 @@ GEM
     erubis (2.7.0)
     faker (1.8.7)
       i18n (>= 0.7)
-    faraday (0.15.2)
-      multipart-post (>= 1.2, < 3)
     ffi (1.9.25-java)
     flay (2.12.0)
       erubis (~> 2.7.0)
@@ -110,15 +107,9 @@ GEM
     minitest (5.11.3)
     multi_json (1.13.1)
     multi_test (0.1.2)
-    multipart-post (2.0.0)
     netrc (0.11.0)
     nokogiri (1.8.2-java)
     nori (2.6.0)
-    nw-automation-encryption (0.2.2)
-      netrc (~> 0.11)
-      octokit (~> 4.0)
-    octokit (4.9.0)
-      sawyer (~> 0.8.0, >= 0.5.3)
     page-object (2.2.5)
       page_navigation (>= 0.10)
       selenium-webdriver (~> 3.0)
@@ -192,9 +183,6 @@ GEM
       nokogiri (>= 1.8.1)
       nori (~> 2.4)
       wasabi (~> 3.4)
-    sawyer (0.8.1)
-      addressable (>= 2.3.5, < 2.6)
-      faraday (~> 0.8, < 1.0)
     selenium-webdriver (3.141.0)
       childprocess (~> 0.5)
       rubyzip (~> 1.2, >= 1.2.2)
@@ -246,7 +234,6 @@ DEPENDENCIES
   http (= 3.3.0)
   json (= 2.1.0)
   logging (= 2.2.2)
-  nw-automation-encryption (= 0.2.2)
   page-object (~> 2.2)
   rack
   rails_helper

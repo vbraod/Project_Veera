@@ -36,7 +36,6 @@
     <orderEntry type="library" scope="PROVIDED" name="equalizer (v0.0.11, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubis (v2.7.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="faker (v1.8.7, jruby-9.1.16.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="faraday (v0.15.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.25, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="flay (v2.12.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="flog (v4.6.2, jruby-9.1.16.0-p0) [gem]" level="application" />
@@ -60,12 +59,9 @@
     <orderEntry type="library" scope="PROVIDED" name="minitest (v5.11.3, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.1.2, jruby-9.1.16.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="multipart-post (v2.0.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="netrc (v0.11.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.8.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nori (v2.6.0, jruby-9.1.16.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="nw-automation-encryption (v0.2.2, jruby-9.1.16.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="octokit (v4.9.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="page-object (v2.2.5, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="page_navigation (v0.10, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="parallel (v1.12.1, jruby-9.1.16.0-p0) [gem]" level="application" />
@@ -98,7 +94,6 @@
     <orderEntry type="library" scope="PROVIDED" name="ruby_parser (v3.11.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.2, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="savon (v2.12.0, jruby-9.1.16.0-p0) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="sawyer (v0.8.1, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.141.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sequel (v4.49.0, jruby-9.1.16.0-p0) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sexp_processor (v4.11.0, jruby-9.1.16.0-p0) [gem]" level="application" />
