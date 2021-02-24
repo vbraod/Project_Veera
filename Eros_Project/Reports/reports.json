@@ -8,7 +8,7 @@
     "line": 2,
     "tags": [
       {
-        "name": "@getcall",
+        "name": "@get_call",
         "line": 1
       }
     ],
@@ -22,7 +22,7 @@
         "type": "scenario",
         "tags": [
           {
-            "name": "@getcall",
+            "name": "@get_call",
             "line": 1
           },
           {
@@ -30,7 +30,7 @@
             "line": 4
           },
           {
-            "name": "@getstatus",
+            "name": "@get_status",
             "line": 4
           }
         ],
@@ -41,45 +41,45 @@
             },
             "result": {
               "status": "passed",
-              "duration": 1182300
+              "duration": 1145800
             }
           }
         ],
         "steps": [
           {
             "keyword": "Given ",
-            "name": "As a consumer, I retrieve all the get info from typicode",
+            "name": "As_a_consumer_I_retrieve_all_the_get_info_from_typicode",
             "line": 6,
             "match": {
               "location": "features/step_definitions/my_steps.rb:6"
             },
             "result": {
               "status": "passed",
-              "duration": 3446470700
+              "duration": 3182450500
             }
           },
           {
             "keyword": "Then ",
-            "name": "validate the response as an Array",
+            "name": "validate_the_response_as_an_Array",
             "line": 7,
             "match": {
               "location": "features/step_definitions/my_steps.rb:11"
             },
             "result": {
               "status": "passed",
-              "duration": 32989000
+              "duration": 42292400
             }
           },
           {
             "keyword": "And ",
-            "name": "I validate retrieved response successfully",
+            "name": "I_validate_retrieved_response_successfully",
             "line": 8,
             "match": {
               "location": "features/step_definitions/my_steps.rb:18"
             },
             "result": {
               "status": "passed",
-              "duration": 39660600
+              "duration": 44801300
             }
           }
         ],
@@ -90,7 +90,7 @@
             },
             "result": {
               "status": "passed",
-              "duration": 3587100
+              "duration": 3432100
             }
           }
         ]

@@ -14,7 +14,6 @@ After do |scenario|
   begin
     duration = Time.now - @start_time
     duration = Time.at(duration).utc.strftime('%H:%M:%S')
-    SplunkReporting.http_event_collector(scenario, duration) if $splunk
   rescue => exception
     $logger.error exception.message
     $logger.error exception.backtrace

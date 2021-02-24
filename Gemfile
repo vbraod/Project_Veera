@@ -14,6 +14,7 @@ group :default do
   gem 'page-object', '~> 2.2'
   gem 'rails_helper'
   gem 'rspec-expectations'
+
 end
 
 # Web Services, Oracle Database
